@@ -3,6 +3,9 @@ zipp<3.7 ; python_version < '3.7' # zipp 3.7.0 dropped support for Python 3.6
 importlib_metadata<4.9 # # importlib_metadata 4.9.0 dropped support for Python 3.6
 Django>=3.2
 Markdown<3.4
+wheel
 requests
 bleach
 tzdata
+martor
+gunicorn
